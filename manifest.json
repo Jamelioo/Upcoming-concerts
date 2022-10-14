@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming  Concerts",
+    "version": "1.0.0",
+    "description": "This extension looks up concerting coming to your city",
+    "manifest_version":3,
+    "author": "Jamel Fernander",
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"Upcoming Concerts"
+    }
+}
